@@ -11,6 +11,10 @@ __pycache__/
 data/
 *.dvc
 
+# allow DVC folder and files
+!.dvc/
+!*.dvc
+
 # mlflow
 mlruns/
 mlflow/
