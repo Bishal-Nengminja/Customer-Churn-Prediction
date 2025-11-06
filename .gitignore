@@ -1,0 +1,23 @@
+# virtualenvs
+.venv/
+env/
+venv/
+
+# python
+__pycache__/
+*.pyc
+
+# data
+data/
+*.dvc
+
+# mlflow
+mlruns/
+mlflow/
+
+# models
+models/*
+!models/.gitkeep
+
+# local env
+.env

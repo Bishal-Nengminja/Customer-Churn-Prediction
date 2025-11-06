@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+mlflow_tracking/
+tmp/
+*.tmp
+*.log
+.env
+.vscode/
