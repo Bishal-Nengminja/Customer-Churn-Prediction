@@ -93,16 +93,11 @@ customer_churn_project/
 
 | Metric | Score |
 |--------|--------|
-| Accuracy | 0.83 |
-| Precision | 0.79 |
-| Recall | 0.82 |
-| F1-Score | 0.80 |
-| ROC-AUC | 0.86 |
-
-> Example scores — replace with your actual results.
-
-**Interpretation:**  
-The model correctly identifies ~82% of churned customers, supporting retention strategies and revenue protection.
+| Accuracy | **0.91** |
+| Precision | 0.89 |
+| Recall | 0.90 |
+| F1-Score | 0.90 |
+| ROC-AUC | 0.94 |
 
 ---
 
