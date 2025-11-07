@@ -22,6 +22,7 @@ mlflow/
 # models
 models/*
 !models/.gitkeep
+!models/*.dvc
 
 # local env
 .env
