@@ -115,7 +115,7 @@ customer_churn_project/
 ```bash
 # 1️⃣ Clone project
 git clone <your_github_repo_url>
-cd customer_churn_project_v2
+cd customer_churn_project
 
 # 2️⃣ Create environment
 conda env create -f environment.yml
