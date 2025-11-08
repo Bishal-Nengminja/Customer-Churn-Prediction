@@ -44,7 +44,7 @@ customer_churn_project/
 | **Database** | PostgreSQL |
 | **Version Control** | Git |
 | **Data Versioning** | DVC |
-| **Experiment Tracking** | MLflow + DagsHub |
+| **Experiment Tracking** | MLflow |
 | **Modeling** | scikit-learn |
 | **EDA & Visualization** | pandas, seaborn, matplotlib |
 | **Environment** | Conda |
